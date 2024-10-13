@@ -1,8 +1,4 @@
-# Homework 4 PCOM
-
-## Mara Fichios 321CA
-
-* For this homeowrk I used 2 sleepdays
+# WEB Client
 
 * For this homework I used the skel that was given to us at the lab, meaning,
 the buffer, helpers and requests files. I solved TODOs in the requests.c file
